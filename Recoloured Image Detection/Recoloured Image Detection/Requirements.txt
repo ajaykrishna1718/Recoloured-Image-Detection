@@ -1,0 +1,12 @@
+To SImulate The PRogram We Have TO USe this COmmand
+
+python image_comparison.py --first images/original_07.jpg --second images/modified_07.jpg
+
+
+
+
+Packages HAd to IAnstall
+pip install scikit-image==0.15.0
+pip install scipy
+pip install imutils
+pip install opencv-python
